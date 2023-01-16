@@ -3,7 +3,7 @@ Evaluation -> Requêtes de BDD:
 
 
 
-1- Liste des clients français --------FINI-----------------------------------------------------------------------------------------------------
+1- Liste des clients français --------FINI---------------------------------------------------------------------------------------------------------------
 
 SELECT ROW_NUMBER() OVER(ORDER BY CompanyName )AS '', CompanyName AS'Société' , ContactName AS'Contact' , ContactTitle AS'Fonction', phone AS'Téléphone' 
 FROM customers 
