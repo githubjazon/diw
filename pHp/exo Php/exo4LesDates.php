@@ -1,4 +1,4 @@
-<!-- 1 : Trouvez le numéro de semaine de la date suivante : 14/07/2019 -->
+<!-- 1 : Trouvez le numéro de semaine de la date suivante : 14/07/2019 ________________FINI___________________-->
 
 <!-- <?php
 $date = new DateTime('2019/07/14');  //La date doit etre au format AAAA/MM/JJ, sinon ca affiche 01
@@ -6,7 +6,7 @@ $week = $date->format("W");
 echo $week;
 ?> -->
 
-<!-- 2: Combien reste-t-il de jours avant la fin de votre formation ? -->
+<!-- 2: Combien reste-t-il de jours avant la fin de votre formation ? ________________FINI___________________-->
 
 <!-- <?php
 
@@ -18,7 +18,7 @@ echo "Il reste " . $interval->format('%a') . " jours avant le 03/02/2023.";
 
 ?> -->
 
-<!-- 3: Comment déterminer si une année est bissextile ?  -->
+<!-- 3: Comment déterminer si une année est bissextile ?  ________________FINI___________________-->
 
 <!-- <?php
 
@@ -41,7 +41,7 @@ if (estBissextile($annee)) {
 
 ?> -->
 
-<!-- 4: Montrez que la date du 32/17/2019 est erronée -->
+<!-- 4: Montrez que la date du 32/17/2019 est erronée ________________FINI___________________-->
 
 <!-- <?php
 
@@ -56,7 +56,7 @@ if ($time === false) {
 
 ?> -->
 
-<!-- 5: Affichez l'heure courante sous cette forme : 11h25 -->
+<!-- 5: Affichez l'heure courante sous cette forme : 11h25  ________________FINI___________________-->
 
 <!-- <?php
 
@@ -68,7 +68,7 @@ echo "Il est $heure_o_bon_format.";
 
 ?> -->
 
-<!-- 6: Ajoutez 1 mois à la date courante -->
+<!-- 6: Ajoutez 1 mois à la date courante ________________FINI___________________-->
 
 <!-- <?php
 
@@ -82,7 +82,7 @@ echo "Date avec 1 mois de plus : " . $date2->format('d/m/Y');
 
 ?> -->
 
-<!-- 7: Que s'est-il passé le 1000200000 ? -->
+<!-- 7: Que s'est-il passé le 1000200000 ? ________________FINI___________________-->
 
 <!-- <?php
 

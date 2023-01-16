@@ -1,5 +1,5 @@
 
-<!-- 1. Mois de l'année non bissextile -->
+<!-- 1. Mois de l'année non bissextile ________________FINI___________________-->
 
 <!-- <?php
        
@@ -31,7 +31,7 @@
         ?> -->
 
 
-<!-- 2. Capitales -->
+<!-- 2. Capitales ________________FINI___________________ -->
 
 
 <!-- <?php
@@ -123,7 +123,7 @@ print_r($capitales);
 <!-- 3. Départements -->
 
 
-<!-- 3.1: Affichez la liste des régions (par ordre alphabétique) suivie du nom des départements. -->
+<!-- 3.1: Affichez la liste des régions (par ordre alphabétique) suivie du nom des départements. ________________FINI___________________-->
 
 <!-- <?php
 $departements = array(
@@ -139,7 +139,7 @@ foreach ($departements as $region => $departements) {
 
 ?> -->
 
-<!-- 3.2:  Affichez la liste des régions suivie du nombre de départements. -->
+<!-- 3.2:  Affichez la liste des régions suivie du nombre de départements. ________________FINI___________________ -->
 
 
 <!-- <?php
